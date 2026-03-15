@@ -210,7 +210,7 @@ sdg-research-swarm/
 # 1. Open shell.cloud.google.com
 
 # 2. Clone the repo
-git clone https://github.com/YOUR_USERNAME/sdg-research-swarm.git
+git clone [https://github.com/nancy06-oss/sdg-research-swarm.git]
 cd sdg-research-swarm
 
 # 3. Install dependencies
